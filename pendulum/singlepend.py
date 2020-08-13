@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+#author: Sanger Steel
+
 
 
 from numpy import sin, cos, arccos, arcsin
@@ -65,7 +66,6 @@ class SinglePendulum:
         self.elapsed_time += dt
 
 
-# In[3]:
 
 
 pendulum = SinglePendulum([-120,0])
