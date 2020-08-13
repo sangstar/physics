@@ -12,7 +12,6 @@ import matplotlib.animation as animation
 import ffmpeg
 
 
-# In[2]:
 
 
 class SinglePendulum:
@@ -74,8 +73,6 @@ dt = 1./30 # 30 fps
 global l
 l = pendulum.params[0]
 
-
-# In[4]:
 
 
 # The following code below was almost entirely cut and pasted from Jake VanderPlas's code 
