@@ -68,7 +68,7 @@ class SinglePendulum:
 
 
 
-pendulum = SinglePendulum([-120,0])
+pendulum = SinglePendulum([-170,0])
 dt = 1./30 # 30 fps
 global l
 l = pendulum.params[0]
