@@ -1,3 +1,3 @@
 # Pendulum physics animations
 
-This code is used to animate a damped, single pendulum. I used Jason VanderPlas's article [url=https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/]here[/url] 
+This code is used to animate a damped, single pendulum. I used Jason VanderPlas's article [here](https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/) to help me understand how to simulate this using objects, and how to animate the effects. The animation portion of this code was almost entirely ripped from his source code, as I'm quite unfamiliar with animations as it stands. 
