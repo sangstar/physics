@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[68]:
+#author: Sanger Steel
+
+# In[1]:
 
 
 from numpy import sin, cos, arccos, arcsin
@@ -13,7 +15,7 @@ import ffmpeg
 from matplotlib.patches import Circle
 
 
-# In[69]:
+# In[2]:
 
 
 class SinglePendulum:
@@ -67,7 +69,7 @@ class SinglePendulum:
         self.elapsed_time += dt
 
 
-# In[70]:
+# In[3]:
 
 
 pendulum = SinglePendulum([-179,0])
@@ -76,7 +78,7 @@ global l
 l = pendulum.params[0]
 
 
-# In[71]:
+# In[4]:
 
 
 fig = plt.figure(figsize=(12,8))
