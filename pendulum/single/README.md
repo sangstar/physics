@@ -1,5 +1,3 @@
 
 
-![Alt Text](https://gfycat.com/diligenttightgallowaycow
-)
-
+![](single_pendulum.gif)
