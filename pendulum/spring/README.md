@@ -1,4 +1,4 @@
 # Spring pendulum
 
-![](single_pendulum.gif)
+![](spring_pendulum.gif)
 
