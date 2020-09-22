@@ -7,3 +7,6 @@ Just a little fun animation of mine. Particles of constantly varying size and co
 2. Completely elastic collision to boundaries.
 
 The animation is in the `animation_example` folder. I've enclosed it in here instead of just having it displayed here because I want to give an epilepsy warning before the user sees it -- the colors change constantly for each particle, which amounts to a lot of flashing and contrasting colors.
+
+
+A gif of the Wild Box without constantly varying colors is previewed here. 
