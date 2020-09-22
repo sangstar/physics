@@ -1,1 +1,3 @@
 Animation
+
+![](wildBox.gif)
