@@ -1,2 +1,2 @@
 
-![](wildBox.gif)
+![wild_box](wildBox.gif)
