@@ -1,4 +1,4 @@
-## Wild Box
+## EPILEPSY WARNING - Wild Box
 
 Just a little fun animation of mine. Particles of constantly varying size and color with random velocity vectors move around in a box. Some assumptions here:
 
