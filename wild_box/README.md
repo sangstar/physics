@@ -10,3 +10,6 @@ The animation is in the `animation_example` folder. I've enclosed it in here ins
 
 
 A gif of the Wild Box without constantly varying colors is previewed here. 
+
+![wild_box](wildBox.gif)
+
